@@ -1,0 +1,213 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+
+.mainmenu li a {padding-left: 32px;}
+
+/* Starting of charity service area */
+.single-charity-service-area h3 {font-size: 16px;}
+.single-charity-service-area {padding: 25px;}
+/* Ending of charity service area */
+
+/* Starting of help fund area */
+.helping-fund-area h1 {font-size: 20px;}
+.boxed-btn {margin-top: 0;}
+/* Ending of help fund area */
+
+/*  Starting of Blogs Details  */
+.post-sidebar-area li a {font-size: 14px;}
+/*  Ending of Blogs Details  */
+
+/*  Starting of Login area area  */ 
+.login-form {
+    padding: 50px;
+    padding-top: 100px;
+}
+/*  Ending of Login area area  */
+
+/* Starting of Featured Campaigns Carousel area */
+.featured-text p {min-height: 102px;}
+.featured-text h3 {min-height: 80px;}
+/* Ending of Featured Campaigns Carousel area */
+
+/* Starting of Campign Details area */
+.campign-social-links a {margin-right: 6px;}
+/* Ending of Campign Details area */
+
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+ .single-team-area {margin-bottom: 30px;}
+ .section-title h2 {font-size: 24px;}
+
+ .boxed-btn {margin-top: 15px;}
+ .header-top-area li {padding: 0 8px;}
+
+ .padding-top-100 {padding-top: 140px;}
+ .mainmenu li a {padding-left: 8px;}
+
+ /*  Starting of counter area */
+.conuter-up-textArea {padding-top: 7%;}
+    .counter-up-section{height: 60%;}
+.single-counter-box {margin-bottom: 30px;}
+/*  Ending of counter area */
+
+/* Starting of charity service area */
+.single-charity-service-area h3 {font-size: 16px;}
+.single-charity-service-area {padding: 15px;}
+/* Ending of charity service area */
+
+/* Starting of help fund area */
+.helping-fund-area h1 {font-size: 20px;}
+.boxed-btn {margin-top: 0;}
+/* Ending of help fund area */
+
+/*  Starting of footer area  */
+.footer-email-subs {margin-top: 30px;}
+.single-footer-area {margin-bottom: 30px;}
+.section-padding.footer-area-wrapper {padding-bottom: 30px;}
+/*  Ending of footer area  */
+
+/*  Starting of Logo Carousel area  */
+.logo-carousel-wrapper .owl-carousel .owl-controls .owl-nav .owl-prev, 
+.logo-carousel-wrapper .owl-carousel .owl-controls .owl-nav .owl-next {
+  top: 34px;
+}
+/*  Ending of Logo Carousel area  */
+
+/*  Starting of subscribe newsletter area  */
+.subscribe-newsletter-area form button {width: 30%;font-size: 13px;}
+/*  Ending of subscribe newsletter area  */
+
+/* Starting of Featured Campaigns Carousel area */
+.featured-text p {min-height: 102px;}
+/* Ending of Featured Campaigns Carousel area */
+
+/* Starting of Campign Details area */
+.campign-social-links a {margin-right: 5px;}
+/* Ending of Campign Details area */
+    /* New Donate Css */
+    .donate-area {margin-bottom: 30px;}
+    /* New Donate Css */
+    
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+	.top-column-left {display: none;}
+	.top-column-right {text-align: left;}
+	.header-top-area li {padding: 0 4px;}
+	.mainmenu {display: none;}
+ 	.slicknav_menu {
+ 		display: block; 
+ 		background-color: transparent; 
+ 		position: absolute; 
+ 		left: 0; 
+ 		top: -10px; 
+ 		z-index: 99;
+ 		width: 100%;
+ 	}
+	.logo {text-align: right;}
+ 	ul.gallery-menu li {margin-bottom: 5px;}
+ 	.section-padding.home-testimonial-wrapper .section-title.text-center {text-align: center;}
+	.testimonial-section .owl-nav {left: 0; bottom: -60px;}
+
+
+  	.social-sharing a {padding: 8px 6px 8px; margin-right: 5px;}
+    .section-padding.blog-post-wrapper {padding: 50px 0;}
+    .section-padding.blog-post-wrapper .section-title h2 {font-size: 25px;}
+    .section-padding.contact-area-wrapper {padding: 50px 0;}
+
+    .padding-top-100 {padding-top: 40px;}
+    .product-faq .panel-heading a {font-size: 16px;}
+
+/* Starting of Slider area */
+.carousel-item-table-cell h1 {font-size: 50px;}
+.carousel-item-table-cell {font-size: 15px;}  
+.homepage-slides .owl-dots {bottom: 20px;}
+/* Ending of Slider area */  
+
+/* Starting of service area */
+.service-area-wrapper {padding-top: 40px; padding-bottom: 0;}
+/* Ending of service area */
+
+/*  Starting of counter area */
+.single-counter-box {margin: 30px 0;}
+.conuter-up-textArea {padding-top: 0;}
+.counter-up-section img {}
+/*  Ending of counter area */
+    .counter-up-section{height: 80%;}
+/* Starting of testimonial area */
+.section-padding.home-testimonial-wrapper {padding-top: 30px;}
+/* Ending of testimonial area */
+
+/* Starting of charity service area */
+.charity-service-area-wrapper {padding: 30px 0 0 0;}
+.single-charity-service-area {
+  position: relative;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin-bottom: 30px;
+}
+/* Ending of charity service area */
+
+/* Starting of help fund area */
+.helping-fund-area h1 {font-size: 20px; margin-top: 20px;}
+/* Ending of help fund area */
+
+/* Starting of Contact area */
+.contact-info i {left: -15px;}
+.contact-info {padding-left: 20px;}
+/* Ending of Contact area */
+
+/*  Starting of team Section   */
+.single-team-area {margin-bottom: 30px;}
+/*  Ending of team Section   */
+
+/*  Starting of footer area  */
+.single-footer-area {margin-bottom: 20px;}
+.section-padding.footer-area-wrapper {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.footer-social-links li a {margin-right: 8px;}
+.copy-right-side, .footer-social-links {text-align: center;}
+/*  Ending of footer area  */
+
+/*  Starting of Volunteer registration area */
+.volunteer-registration-wrapper img {margin-bottom: 30px;}
+/*  Ending of Volunteer registration area */
+
+/*  Starting of Login area area  */ 
+ .login-form {
+    padding: 10px;
+    padding-top: 100px;
+}
+/*  Ending of Login area area  */
+
+/*  Starting of subscribe newsletter area  */
+.subscribe-newsletter-area form button {width: 35%; font-size: 12px;}
+.subscribe-newsletter-area form input {width: 65%;}
+.subscribe-newsletter-area {padding: 20px 15px 20px 15px;top: -100px;}
+.subscribe-newsletter-area p {margin-bottom: 15px;}
+/*  Ending of subscribe newsletter area  */
+
+/* Starting of Campign Details area */
+.campign-social-links a {
+  height: 35px;
+  width: 35px;
+  line-height: 35px;
+  margin-right: 0px;
+}
+/* Ending of Campign Details area */
+
+    /* New Donate Css */
+    .donate-area {margin-bottom: 30px;}
+    /* New Donate Css */
+
+
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+}
