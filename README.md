@@ -42,19 +42,21 @@ But NGOs should not become pure businesses either. There is a need for a rating 
 
 
 ### 1.2	Objective
-Getting people to support an NGO: NGOs often struggle to market themselves. Owing to the challenges discussed above, it’s a daunting task for NGOs to come up with the right communication to connect with their potential donors.  
+#### Getting people to support an NGO: 
+NGOs often struggle to market themselves. Owing to the challenges discussed above, it’s a daunting task for NGOs to come up with the right communication to connect with their potential donors.  
  
 ⇒ And it’s not just about donations alone. NGOs also have a tough time in campaigning – that is spreading the word about their cause(s) effectively and striking a chord with the masses.  
 
 ⇒ It is vital for NGOs to register in the minds of their existing and potential donors that they are into doing some truly serious work for the cause they stand for. 
 
-Lack of Credibility: This is perhaps the most plaguing issue for NGOs operating in India. During the last few years, numerous organizations have mushroomed that claim to work for the cause of helping the poor.  
+#### Lack of Credibility: 
+This is perhaps the most plaguing issue for NGOs operating in India. During the last few years, numerous organizations have mushroomed that claim to work for the cause of helping the poor.  
  
 Under the garb of being an NGO, these NGOs often mint money from donors. In order to generate the right quantities of funds to execute their projects, it is vital for NGOs to function like business entities.  
  
 But NGOs should not become pure businesses either. There is a need for a rating system to be in place for NGOs which ranks them on the basis of the seriousness of their work and their openness to getting audited and scrutinized. 
 
-### 2. Existing Work  Literature Review ( 1- 2 Pages)
+### 2. Existing Work  Literature Review 
 
 ●	Give India ( https://www.giveindia.org/) :
 
@@ -68,7 +70,8 @@ But NGOs should not become pure businesses either. There is a need for a rating 
 
 ⇒ Encourage people to contribute by making a small in-kind donation as they feel contribution towards this cause not only gives them immense satisfaction but it also connects them with Indian culture where donating food, clothes & water is termed to be a very noble gesture.  
  
-### Limitation: It is only based on a single organization and only one type of donation whereas our website connects all different kinds of donations for anyone who wants to donate. 
+### Limitation: 
+It is only based on a single organization and only one type of donation whereas our website connects all different kinds of donations for anyone who wants to donate. 
 
 ### Existing Work:
 A functional website with all the basic frameworks has been created till now. All from scratch including the UI/UX, Frontend, and Backend. NGOs can log in and register themselves and list out their campaigns which could then be displayed on the main page for visitors to see.
