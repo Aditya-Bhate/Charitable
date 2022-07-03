@@ -82,6 +82,8 @@ A basic authentication service for the login and sign-up page has also been inco
 ### 3. Topic of the work 
 
 #### a. System Design / Architecture 
+[View Here](https://drive.google.com/drive/folders/1_kwSbgwCam5-m3mzAUU1PUKAR9nW6BLH?usp=sharing)
+
 
 
 #### b. Working Principle 
@@ -93,13 +95,16 @@ A basic authentication service for the login and sign-up page has also been inco
 ●	It would also help increase their reach to the people who are likely to donate which would directly solve the problem of financial crisis. 
  
 #### c.	Expected Results 
-
+[View Here](https://drive.google.com/drive/folders/1_kwSbgwCam5-m3mzAUU1PUKAR9nW6BLH?usp=sharing)
  
 
 
 ### 4. Individual Contribution:
-###### UI/UX:
-Done by Hardik, Aditya and Ameya
+
+#### **UI/UX**:
+
+Done by Hardik, **Aditya** and Ameya
+
 ●	Designed the signUp page, Home page, About Page, Campaigns, Blog, FAQ and Contact Page for our Web app using figma. 
 
 ●	Incorporated maker.io plugin to run tests on a localhost. Maker.io plugin helps to make designs responsive for all screen sizes. 
@@ -110,31 +115,35 @@ Done by Hardik, Aditya and Ameya
 
 ●	Tried to maximize the User experience while using the Web app.
 
-###### USER FLOW AND SYSTEM DESIGN/ARCHITECTURE: 
+#### **USER FLOW AND SYSTEM DESIGN/ARCHITECTURE**: 
 Done by Abhinav and Utkarsh.
 A comprehensive user flow diagram with architecture was brainstormed and created by Abhinav & Utkarsh. Initially, we took ideas from the team and implemented those in a flow diagram. A Logic based approach with UX in consideration to plan out the user flow and the architecture. The architecture was simplified to the most atomic level to reduce extra load on the website and increase efficiency. Initially the user would open the Homepage. From this homepage, the user can sign up as an NGO or as a volunteer or to donate. If the user has already registered, they can opt for Login. Whenever an NGO lists its list of campaigns it will first show up on the MY CAMPAIGNS page where the admin will approve them. After the approval the list would be stored in the backend of the website.
 
- 
+ [View Here](https://drive.google.com/drive/folders/1_kwSbgwCam5-m3mzAUU1PUKAR9nW6BLH?usp=sharing)
 
 
 
 
-###### FRONTEND:
+#### **FRONTEND**:
+
 Done by Margik, Abhinav and Bhumil.
-Margik Bhatt:-
+
+**Margik Bhatt:-**
  I had contributed towards two main components of our website. One being the MY CAMPAIGNS Page and the other being the feature of the latest campaigns and featured campaigns.  Whenever an NGO lists its list of campaigns it will first show up on the MY CAMPAIGNS page where the admin will approve them. After the approval the list would be stored in the backend of the website. This list will then be shown on the latest campaign tab of the website’s main page. And in-case if a special campaign is to be listed it would then be transferred to the featured campaign tab as well.
  
-Abhinav Pandey: 
+**Abhinav Pandey:** 
 I contributed to the content and navigation part of the homepage for frontend. The architecture was simplified to the most atomic level to reduce extra load on the website and increase efficiency. 
 The user has two options to either sign up or to login. Various other useful information was made available on the homepage with various categories that the NGO’s will run campaigns on. A user can click on his/her selected category and find NGOs with similar campaigns in the same category. For the dashboard, Once a user sign’s up, the user is taken to the dashboard from where new campaigns or existing running or pending(for approval) campaigns can be viewed. 
 
-Bhumil Modi:
+**Bhumil Modi:**
 I made the landing page of the website , it is the first page where the user will land when he/she opens our app. Also there is a login page that will come when the user clicks on the login button on the home(landing) page. There are 4 main components on the home made that I contributed to , first is the hero section where there is brief about our app , below that there is a section where we show what kind of charity that we support and what campaigns we have done on the website. After this there is a part which is connected to the My CAMPAIGN page made by Margik. In this part we list out all the active campaigns with the help of stored data for My CAMPAIGN page.
 Also we have a section which shows the brief of the campaigns running currently and also gives an option to see campaigns according to the categories.
+
+[View Here](https://drive.google.com/drive/folders/1_kwSbgwCam5-m3mzAUU1PUKAR9nW6BLH?usp=sharing)
  
  
  
-###### BACKEND:
+##### BACKEND:
 Done by Ashwin and Utkarsh
 Ashwin & Utkarsh:
 Majorly contributed in developing the backend for our project which includes : 
@@ -183,26 +192,16 @@ We are aiming to build a web app that provides a platform for all NGOs all aroun
 
 #
 
-## HTML DOM :
-The HTML DOM (Document Object Model)
-When a web page is loaded, the browser creates a Document Object Model of the page.
 
-The HTML DOM model is constructed as a tree of Objects :
-
-<a ><img src="https://www.w3schools.com/js/pic_htmltree.gif"/></a>
-
-![Screenshot (2607)](https://user-images.githubusercontent.com/85818935/151485640-381ed653-6ebd-462e-bdf6-59d92c080355.png)
-
-## Flow-Chart of the game :
-
-<a ><img src="https://github.com/Aditya-Bhate/Pig-Game-Js/blob/main/pig-game-flowchart.png"/></a>
 
  ## Languages used:
 <code><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></code>
+<code><img src="https://img.icons8.com/ios-filled/344/php.png" height="45"/></code>
+
 #
 
-🎮 Have fun playing this [**game**](https://aditya-bhate.github.io/Pig-Game-Js/) with your friends !🤗
+
 
 ❎ In case you find issues in any of my Repositories, you can Hit Me Up [here](https://github.com/Aditya-Bhate/Aditya-Bhate/issues)! 👈 
